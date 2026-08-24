@@ -1,3 +1,301 @@
+<!-- wp:paragraph -->
+<p>https://translate.google.com/websitetranslationui?parent=https%3A%2F%2Fsaylordotorg-github-io.translate.goog&amp;pfu=https%3A%2F%2Fsaylordotorg-github-io.translate.goog%2Ftext_law-for-entrepreneurs%2Findex.html%3F_x_tr_sl%3Den%26_x_tr_tl%3Dth%26_x_tr_hl%3Dth%26_x_tr_pto%3Dtc&amp;u=https%3A%2F%2Fsaylordotorg.github.io%2Ftext_law-for-entrepreneurs%2Findex.html&amp;sl=en&amp;tl=th&amp;opu=https%3A%2F%2Ftranslate.google.com%2Fwebsite%3Fsl%3Den%26tl%3Dth%26hl%3Dth%26client%3Dsrp%26u%3Dhttps%3A%2F%2Fsaylordotorg.github.io%2Ftext_law-for-entrepreneurs%2Findex.html%26anno%3D2&amp;client=srp&amp;hl=th</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">กฎหมายสำหรับผู้ประกอบการ</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>เวอร์ชัน 1.0</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="toc-header">สารบัญ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul id="toc-top-ul" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s00-license.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ข้อมูลเกี่ยวกับใบอนุญาต</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-introduction-to-law-and-legal-.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 1: บทนำเกี่ยวกับกฎหมายและระบบกฎหมาย</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-00-introduction-to-law-and-legal-.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-01-what-is-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กฎหมายคืออะไร?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-02-schools-of-legal-thought.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สำนักคิดทางกฎหมาย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-03-basic-concepts-and-categories-.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">แนวคิดพื้นฐานและหมวดหมู่ของกฎหมายลายลักษณ์อักษรของสหรัฐอเมริกา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-04-sources-of-law-and-their-prior.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">แหล่งที่มาของกฎหมายและลำดับความสำคัญ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-05-legal-and-political-systems-of.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ระบบกฎหมายและระบบการเมืองของโลก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-06-a-sample-case.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณีตัวอย่าง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s04-07-summary-and-exercises.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สรุปและแบบฝึกหัด</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-corporate-social-responsibilit.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 2: ความรับผิดชอบต่อสังคมขององค์กรและจริยธรรมทางธุรกิจ</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-00-corporate-social-responsibilit.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-01-what-is-ethics.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">จริยธรรมคืออะไร?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-02-major-ethical-perspectives.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">มุมมองทางจริยธรรมที่สำคัญ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-03-an-ethical-decision-model.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">แบบจำลองการตัดสินใจเชิงจริยธรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-04-corporations-and-corporate-gov.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บริษัทและการกำกับดูแลกิจการ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s05-05-summary-and-exercises.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สรุปและแบบฝึกหัด</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-courts-and-the-legal-process.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 3: ศาลและกระบวนการทางกฎหมาย</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-00-courts-and-the-legal-process.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-01-the-relationship-between-state.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ความสัมพันธ์ระหว่างระบบศาลของรัฐและระบบศาลของรัฐบาลกลางในสหรัฐอเมริกา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-02-the-problem-of-jurisdiction.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ปัญหาเรื่องเขตอำนาจศาล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-03-motions-and-discovery.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">การยื่นคำร้องและการค้นหาข้อมูล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-04-the-pretrial-and-trial-phase.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ขั้นตอนก่อนการพิจารณาคดีและขั้นตอนการพิจารณาคดี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-05-judgment-appeal-and-execution.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">คำพิพากษา การอุทธรณ์ และการบังคับคดี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-06-when-can-someone-bring-a-lawsu.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บุคคลสามารถฟ้องร้องได้เมื่อใด?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-07-relations-with-lawyers.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ความสัมพันธ์กับทนายความ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-08-alternative-means-of-resolving.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ทางเลือกอื่นในการระงับข้อพิพาท</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s06-09-cases.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณี</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-constitutional-law-and-us-comm.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 4: กฎหมายรัฐธรรมนูญและการพาณิชย์ของสหรัฐอเมริกา</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-00-constitutional-law-and-us-comm.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-01-basic-aspects-of-the-us-consti.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">แง่มุมพื้นฐานของรัฐธรรมนูญสหรัฐอเมริกา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-02-the-commerce-clause.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทบัญญัติการค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-03-dormant-commerce-clause.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">เงื่อนไขการค้าที่หยุดชะงัก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-04-preemption-the-supremacy-claus.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">การยกเลิกสัญญา: มาตราว่าด้วยอำนาจสูงสุด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-05-business-and-the-bill-of-right.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ธุรกิจและรัฐธรรมนูญฉบับแก้ไขเพิ่มเติม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-06-cases.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s07-07-summary-and-exercises.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สรุปและแบบฝึกหัด</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-administrative-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 5: กฎหมายปกครอง</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-00-administrative-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-01-administrative-agencies-their-.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">หน่วยงานบริหาร: โครงสร้างและอำนาจหน้าที่ของหน่วยงานเหล่านั้น</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-02-controlling-administrative-age.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">หน่วยงานบริหารควบคุม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-03-the-administrative-procedure-a.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">พระราชบัญญัติวิธีปฏิบัติทางปกครอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-04-administrative-burdens-on-busi.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ภาระงานด้านการบริหารที่มีต่อการดำเนินงานของธุรกิจ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-05-the-scope-of-judicial-review.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ขอบเขตของการตรวจสอบโดยศาล</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-06-cases.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s08-07-summary-and-exercises.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สรุปและแบบฝึกหัด</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-criminal-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 6: กฎหมายอาญา</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-00-criminal-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-01-the-nature-of-criminal-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ลักษณะของกฎหมายอาญา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-02-types-of-crimes.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ประเภทของอาชญากรรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-03-the-nature-of-a-criminal-act.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ลักษณะของการกระทำผิดทางอาญา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-04-responsibility.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ความรับผิดชอบ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-05-procedure.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ขั้นตอน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-06-constitutional-rights-of-the-a.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สิทธิตามรัฐธรรมนูญของผู้ถูกกล่าวหา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-07-cases.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s09-08-summary-and-exercises.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สรุปและแบบฝึกหัด</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-introduction-to-tort-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 7: บทนำเกี่ยวกับกฎหมายละเมิด</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-00-introduction-to-tort-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-01-purpose-of-tort-laws.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">วัตถุประสงค์ของกฎหมายละเมิด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-02-intentional-torts.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">การละเมิดโดยเจตนา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-03-negligence.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ความประมาท</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-04-strict-liability.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">ความรับผิดโดยเคร่งครัด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-05-cases.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s10-06-summary-and-exercises.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">สรุปและแบบฝึกหัด</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-introduction-to-contract-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทที่ 8: ความรู้เบื้องต้นเกี่ยวกับกฎหมายสัญญา</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-00-introduction-to-contract-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">บทนำบทที่</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-01-general-perspectives-on-contra.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">มุมมองทั่วไปเกี่ยวกับสัญญา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-02-sources-of-contract-law.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">แหล่งที่มาของกฎหมายสัญญา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-03-basic-taxonomy-of-contracts.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">การจำแนกประเภทพื้นฐานของสัญญา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-04-cases.html?_x_tr_sl=en&amp;_x_tr_tl=th&amp;_x_tr_hl=th&amp;_x_tr_pto=tc">กรณี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://saylordotorg-github-io.translate.goog/text_law-for-entrepreneurs/s11-05-summary-and-exercise
+
 พระราชบัญญัติ
 ให้ใช้ประมวลกฎหมายวิธีพิจารณาความอาญา
 พุทธศักราช ๒๔๗๗
