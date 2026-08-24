@@ -1,0 +1,9 @@
+Information:
+Module	   IIS Web Core
+Notification	   MapRequestHandler
+Handler	   StaticFile
+Error Code	   0x80070002
+Requested URL	   http://www.oic.go.th:80/ginfo
+Physical Path	   C:\inetpub\wwwroot\ginfo
+Logon Method	   Anonymous
+Logon User	   Anonymous
