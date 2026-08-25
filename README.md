@@ -1,3 +1,6 @@
+[หมายศาลการไฟฟ้าเขียงคาน](https://www.facebook.com/share/p/1JjVKeq4SU/)
+[หมายศาลการไฟฟ้าเชียงคาน](https://www.facebook.com/share/p/19U8Wim5uR/)
+
 <!-- wp:paragraph -->
 <p>https://translate.google.com/websitetranslationui?parent=https%3A%2F%2Fsaylordotorg-github-io.translate.goog&amp;pfu=https%3A%2F%2Fsaylordotorg-github-io.translate.goog%2Ftext_law-for-entrepreneurs%2Findex.html%3F_x_tr_sl%3Den%26_x_tr_tl%3Dth%26_x_tr_hl%3Dth%26_x_tr_pto%3Dtc&amp;u=https%3A%2F%2Fsaylordotorg.github.io%2Ftext_law-for-entrepreneurs%2Findex.html&amp;sl=en&amp;tl=th&amp;opu=https%3A%2F%2Ftranslate.google.com%2Fwebsite%3Fsl%3Den%26tl%3Dth%26hl%3Dth%26client%3Dsrp%26u%3Dhttps%3A%2F%2Fsaylordotorg.github.io%2Ftext_law-for-entrepreneurs%2Findex.html%26anno%3D2&amp;client=srp&amp;hl=th</p>
 <!-- /wp:paragraph -->
